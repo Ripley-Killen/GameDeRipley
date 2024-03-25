@@ -4,7 +4,7 @@ In this interactive, graphical game, users hit a rat until the rat population in
 
 # Class Diagram
 
-![Gameplay]()
+![Gameplay](https://github.com/Ripley-Killen/GameDeRipley/blob/main/images/ClassDiagramRat.jpg?raw=true)
 
 # Dewey Mock-Up
 
