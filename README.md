@@ -1,6 +1,6 @@
 # Rat Czar
 
-In this interactive, graphical game, users hit a rat until the rat population in New York is eliminated. Users can get powerups along the way to help them.
+In this interactive, graphical game, users hit a rat until the rat population in New York is eliminated. Users use a hammer to click on a rat until they have saved New York!
 
 # Class Diagram
 
@@ -12,4 +12,4 @@ In this interactive, graphical game, users hit a rat until the rat population in
 
 # Source Code
 
-[Source Code]()
+[Source Code](https://github.com/Ripley-Killen/GameDeRipley/blob/main/src/Rat_Czar_Real%202.zip)
