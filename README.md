@@ -13,6 +13,8 @@ In this interactive, graphical game, users hit a rat until the rat population in
 
 ![User Mouse](https://github.com/Ripley-Killen/GameDeRipley/blob/main/images/Hammer2.png?raw=true)
 
+![End Screen](https://github.com/Ripley-Killen/GameDeRipley/blob/main/images/EndScreen.png?raw=true)
+
 # Source Code
 
 [Source Code](https://github.com/Ripley-Killen/GameDeRipley/blob/main/src/Rat_Czar_Real.pyde)
